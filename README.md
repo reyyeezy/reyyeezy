@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there!
 
-<!--
-**reyyeezy/reyyeezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeff, a self-taught data analyst from 🇲🇾 Malaysia.
 
-Here are some ideas to get you started:
+✨ About Me in 30 Secs ✨
+👩🏻‍💻 Flexologist turned data analyst
+📊 Transition to data since March 2021
+📝 Taught myself SQL, R, Python and Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Projects & Portfolios 📚
+For my portfolio, click HERE
+
+💡 Core Competencies 💡
+Tools: SQL, R, Tableau
+Skills: Data Cleaning, Data Visualisation, Data Analysis, Relational Databases, Dashboard Designs
+
+⚡️ Currently ⚡️
+Brushing up on data cleaning and data visualization with Tableau
+Learning Python for Data Analysis
+Courses:
+
+🙌🏻 Connect with Me
+LinkedIn
+Medium
+Kaggle
