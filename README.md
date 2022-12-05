@@ -21,5 +21,5 @@ I'm Jeff, a self-taught data analyst from Vallejo.
 * Courses:
 
 🙌🏻 Connect with Me
-* LinkedIn
-* Kaggle
+* [LinkedIn](https://www.linkedin.com/in/reynald-jeffrey-david-883950196/)
+* [Kaggle](https://www.kaggle.com/rjeffreydavid)
