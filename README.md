@@ -10,7 +10,7 @@ I'm Jeff, a self-taught data analyst from Vallejo.
 
 📚 Projects & Portfolios 📚
 * For my portfolio, click HERE
-* 
+
 💡 Core Competencies/Skills 💡
 * Tools: SQL, R, Tableau
 * Skills: Data Cleaning, Data Visualisation, Data Analysis, Relational Databases, Dashboard Designs
