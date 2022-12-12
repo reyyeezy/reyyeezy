@@ -5,7 +5,7 @@ I'm Jeff, a self-taught data analyst from Vallejo.
 ✨ About Me ✨
 
 * 👩🏻‍💻 Flexologist turned data analyst
-* 📊 Transition to data since March 2021
+* 📊 Transition to data since March 2022
 * 📝 Taught myself SQL, R, Python and Tableau
 
 📚 Projects & Portfolios 📚
