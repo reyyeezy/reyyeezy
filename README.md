@@ -9,7 +9,7 @@ I'm Jeff, a self-taught data analyst from Vallejo.
 * 📝 Taught myself SQL, R, Python and Tableau
 
 📚 Projects & Portfolios 📚
-* For my portfolio, click HERE
+* For my portfolio, click [HERE](https://github.com/reyyeezy/PortfolioProjects)
 
 💡 Core Competencies/Skills 💡
 * Tools: SQL, R, Tableau
