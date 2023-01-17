@@ -24,3 +24,4 @@ I'm Jeff, a self-taught data analyst from Vallejo.
 * [LinkedIn](https://www.linkedin.com/in/reynald-jeffrey-david-883950196/)
 * [Kaggle](https://www.kaggle.com/rjeffreydavid)
 * [Deepnote](https://deepnote.com/@spike-rush-inc/Airbnbs-in-San-Francisco-5a4f6603-c79c-41ef-b6d9-b7db6b6ae41c)
+* [Tableau](https://public.tableau.com/app/profile/jeffrey.david)
