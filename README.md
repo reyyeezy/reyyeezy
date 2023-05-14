@@ -1,12 +1,8 @@
 # Hi there! 🙋‍♂️
 
-I'm Jeff, a self-taught data analyst from Vallejo.
+I'm RJ, a data analyst with a strong background in SQL, Excel, and Tableau. I'm passionate about finding insights within data that can help businesses make informed decisions.
 
-✨ About Me ✨
-
-* 👩🏻‍💻 Flexologist turned data analyst
-* 📊 Transition to data since March 2022
-* 📝 Taught myself SQL, R, Python and Tableau
+I specialize in cleaning, modeling, and visualizing data using SQL, Excel, and Tableau. My goal is to make data accessible and understandable for all stakeholders.
 
 📚 Projects & Portfolios 📚
 * For my portfolio, click [HERE](https://github.com/reyyeezy/PortfolioProjects)
