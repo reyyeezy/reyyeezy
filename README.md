@@ -4,6 +4,7 @@ I'm RJ, a data analyst with a strong background in SQL, Excel, and Tableau. I'm 
 
 I specialize in cleaning, modeling, and visualizing data using SQL, Excel, and Tableau. My goal is to make data accessible and understandable for all stakeholders.
 
+
 📚 Projects & Portfolios 📚
 * For my portfolio, click [HERE](https://github.com/reyyeezy/PortfolioProjects)
 
