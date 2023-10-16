@@ -9,7 +9,7 @@ I specialize in cleaning, modeling, and visualizing data using SQL, Excel, and T
 * For my portfolio, click [HERE](https://github.com/reyyeezy/PortfolioProjects)
 
 💡 Core Competencies/Skills 💡
-* Tools: SQL, R, Tableau
+* Tools: SQL, Excel, R, Tableau
 * Skills: Data Cleaning, Data Visualisation, Data Analysis, Relational Databases, Dashboard Designs
 
 ⚡️ Currently ⚡️
